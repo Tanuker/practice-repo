@@ -1,27 +1,27 @@
-## First Name Last Name
+## Ralph (Adderly) Cannon
 
-### Term Year 
+### 2022
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- _Introduction to Data Science_
 
-- Course 2
+- Introduction to Computation and Programming
 
-- Course 3
+- Python for Data Analytics
 
-- Course 4
+- Analytic Geometry and Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Computers/Creating
 
-- Thing 2
+- Music/Cars
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- **Florida Polytechnic**
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2022/08/31
